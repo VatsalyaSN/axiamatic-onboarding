@@ -2,55 +2,55 @@
     {
         "label": "Notion",
         "value": "notion",
-        "icon": "/src/assets/images/logos/notion_logo.png",
+        "icon": "/images/logos/notion_logo.png",
         "empty": false
     },
     {
         "label": "Azure",
         "value": "azure",
-        "icon": "/src/assets/images/logos/azure_logo.png",
+        "icon": "/images/logos/azure_logo.png",
         "empty": false
     },
     {
         "label": "Jira",
         "value": "jira",
-        "icon": "/src/assets/images/logos/jira_logo.jpeg",
+        "icon": "/images/logos/jira_logo.jpeg",
         "empty": false
     },
     {
         "label": "Noimics",
         "value": "noimics",
-        "icon": "/src/assets/images/logos/noimics_logo.png",
+        "icon": "/images/logos/noimics_logo.png",
         "empty": false
     },
     {
         "label": "Nopen Speed",
         "value": "nopenSpeed",
-        "icon": "/src/assets/images/logos/nopenSpeed_logo.jpeg",
+        "icon": "/images/logos/nopenSpeed_logo.jpeg",
         "empty": false
     },
     {
         "label": "Noyer Books",
         "value": "noyerBooks",
-        "icon": "/src/assets/images/logos/noyerBooks_logo.png",
+        "icon": "/images/logos/noyerBooks_logo.png",
         "empty": false
     },
     {
         "label": "Slack",
         "value": "slack",
-        "icon": "/src/assets/images/logos/slack_logo.png",
+        "icon": "/images/logos/slack_logo.png",
         "empty": false
     },
     {
         "label": "Zoom",
         "value": "zoom",
-        "icon": "/src/assets/images/logos/zoom.jpeg",
+        "icon": "/images/logos/zoom.jpeg",
         "empty": false
     },
     {
         "label": "Teams",
         "value": "teams",
-        "icon": "/src/assets/images/logos/teams_logo.png",
+        "icon": "/images/logos/teams_logo.png",
         "empty": false
     }
 ]

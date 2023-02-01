@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect } from "react";
+import React, { useRef, useState, useEffect } from "react";
 
 import AutoComplete from "../../components/Autocomplete/Autocomplete";
 import SelectionBox from "../../components/SelectionBox/SelectionBox";
@@ -73,7 +73,7 @@ const OnboardingPage = () => {
         setTimeout(()=> {
             setShowSuccessMsg(false);
         }, 1500);
-        
+
         localStorage.setItem('selectedSoftwares', JSON.stringify(selectedProducts));
     }
 

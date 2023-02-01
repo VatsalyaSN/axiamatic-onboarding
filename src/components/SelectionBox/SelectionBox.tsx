@@ -1,9 +1,10 @@
+import React from 'react';
+
 import plusIcon from '../../assets/images/icons/plus.png';
 import removeIcon from '../../assets/images/icons/delete.png';
 
 import './selectionBox.css';
 import { OptionProps } from '../OptionProps.types';
-
 
 type SelectionBoxProps = {
     selectedItem: OptionProps,

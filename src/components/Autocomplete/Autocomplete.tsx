@@ -61,7 +61,7 @@ const AutoComplete = ({ options, handleOptionSelection, selectedOptionsList, pla
 
     const handleOnSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
         const searchValue = event.target.value;
-        let filteredList = [];
+        let filteredList: OptionProps[] = [];
 
         if (searchValue.length >= 1) {
             filteredList = options.filter(item => item.label.substring(0, searchValue.length).toLowerCase() === searchValue.toLowerCase());
